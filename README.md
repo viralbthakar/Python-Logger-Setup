@@ -1,2 +1,2 @@
 # Python-Logger-Setup
-Boilerplate setup for Python Logging
+Boilerplate setup for Python Logging.
