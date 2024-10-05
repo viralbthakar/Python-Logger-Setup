@@ -1,0 +1,12 @@
+2024-10-04 20:35:56,274 - main - INFO - Hello Information from /Users/thakarv/Documents/personal/git-repos/remotes/Python-Logger-Setup/main.py!
+2024-10-04 20:35:56,274 - main - ERROR - Hello Error from /Users/thakarv/Documents/personal/git-repos/remotes/Python-Logger-Setup/main.py!
+2024-10-04 20:35:56,274 - main - WARNING - Hello Warning from /Users/thakarv/Documents/personal/git-repos/remotes/Python-Logger-Setup/main.py!
+2024-10-04 20:35:56,274 - test_script - INFO - Hello Information from test_script.py!
+2024-10-04 20:35:56,274 - test_script - ERROR - Hello Error from test_script.py!
+2024-10-04 20:35:56,274 - test_script - WARNING - Hello Warning from test_script.py!
+2024-10-04 20:35:56,274 - module_a.test_script_2 - INFO - Hello Information from test_script_2.py!
+2024-10-04 20:35:56,274 - module_a.test_script_2 - ERROR - Hello Error from test_script_2.py!
+2024-10-04 20:35:56,274 - module_a.test_script_2 - WARNING - Hello Warning from test_script_2.py!
+2024-10-04 20:35:56,274 - module_b.test_script_3 - INFO - Hello Information from test_script_3.py!
+2024-10-04 20:35:56,274 - module_b.test_script_3 - ERROR - Hello Error from test_script_3.py!
+2024-10-04 20:35:56,274 - module_b.test_script_3 - WARNING - Hello Warning from test_script_3.py!
